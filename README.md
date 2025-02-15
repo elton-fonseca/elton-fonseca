@@ -28,9 +28,7 @@ My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializin
 - **Laravel - Service Container, Service Provider, and Facades**  
   [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-service-container-service-provider-e-facades?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-container-provider-facade)  
 
-- **And 61 more courses** on PHP fundamentals, Laravel, cloud computing, and databases.  
-
-You can see the full list here: [experience.eltonfonseca.dev](https://experience.eltonfonseca.dev/requests/10007)  
+- **And 61 more courses** on PHP fundamentals, Laravel, cloud computing, and databases. You can see the full list here: [experience.eltonfonseca.dev](https://experience.eltonfonseca.dev/requests/10007)  
 
 ## 🌱 What I'm studying
  - Laracasts: Let's Build a SaaS in Laravel (Matt Stauffer)
