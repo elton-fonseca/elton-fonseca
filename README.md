@@ -6,7 +6,8 @@ My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializin
  - **Opergel Sales:** B2B sales system built with Laravel, integrated with an ERP, processing $5M in orders monthly. Ensures seamless order management and inventory synchronization.
  - **Payshop Portugal PayByLink:** system developed in Laravel, integrated with multiple APIs, supporting card payment and other European payment methods for secure and flexible transactions.
  - **Payshop Portugal Plugin:** Payment plugins for WooCommerce, Prestashop, and Magento, enabling several different payment methods, enhancing checkout experiences for European merchants.
- - **Freight tracking:** Example application created for my Laravel course. A freight tracking system featuring a full-stack app, RESTful API, and an admin panel using Filament PHP.  
+- **Laravel Bootcamp:** A hands-on bootcamp where students will develop a Laravel application featuring a full-stack app, RESTful API, and an admin panel using Filament PHP.  
+
 
 ## 🚀 Courses I Authored 
 
