@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializing in Laravel. I’ve built B2B software, internal tools, APIs, and e-commerce modules for platforms like Magento and Woocommerce. Currently, I’m a software development instructor and manager, leading teams and creating educational content. I’m passionate about modernizing applications, cloud scalability, and delivering exceptional user experiences
+My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializing in Laravel. I’ve built B2B software, internal tools, APIs, and e-commerce modules for platforms like Magento and Woocommerce. I'm also a software development instructor and manager, leading teams and creating educational content. I’m passionate about modernizing applications, cloud scalability, and delivering exceptional user experiences
 
 ## 🔭 What I'm Working On
  - **Opergel Sales:** B2B sales system built with Laravel, integrated with an ERP, processing $5M in orders monthly. Ensures seamless order management and inventory synchronization.
