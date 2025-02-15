@@ -8,6 +8,27 @@ My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializin
  - **Payshop Portugal Plugin:** Payment plugins for WooCommerce, Prestashop, and Magento, enabling several different payment methods, enhancing checkout experiences for European merchants.
  - **Freight tracking:** Example application created for my Laravel course. A freight tracking system featuring a full-stack app, RESTful API, and an admin panel using Filament PHP.  
 
+## 🚀 Courses I Authored 
+
+- **Laravel - Testing Fundamentals**  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-testes-fundamentos?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-teste-fundamentos)  
+
+- **Laravel - Livewire**  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-criando-aplicacoes-dinamicas-com-livewire?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-criando-aplicacoes-dinamicas-com-livewire)  
+
+- **Laravel - Filament PHP**  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-construindo-aplicacoes-com-filamentphp?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-filament-php)  
+
+- **Laravel - Exception Handling**  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/direto-ao-ponto/laravel-trabalhando-com-tratamento-de-excecoes?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-exceptions)  
+
+- **Laravel - Service Container, Service Provider, and Facades**  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-service-container-service-provider-e-facades?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-container-provider-facade)  
+
+- **And 61 more courses** on PHP fundamentals, Laravel, cloud computing, and databases.  
+
+You can see the full list here: [experience.eltonfonseca.dev](https://experience.eltonfonseca.dev/requests/10007)  
+
 ## 🌱 What I'm studying
  - Laracasts: Let's Build a SaaS in Laravel (Matt Stauffer)
  - Book: Laravel Beyond CRUD (Brent Roose - Spatie)
