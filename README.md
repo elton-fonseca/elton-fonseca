@@ -18,7 +18,7 @@ My name is Elton Fonseca. I’ve been working with PHP for 13 years, specializin
   [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-testes-avancado?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-teste-avancados)  
 
 - **Laravel - Livewire**  
-  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-criando-aplicacoes-dinamicas-com-livewire?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-criando-aplicacoes-dinamicas-com-livewire)  
+  [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-criando-aplicacoes-dinamicas-com-livewire?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/livewire-fundamentos)  
 
 - **Laravel - Filament PHP**  
   [Course Link](https://www-treinaweb-com-br.translate.goog/curso/laravel-construindo-aplicacoes-com-filamentphp?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) | [Example Code Repository](https://github.com/treinaweb/laravel-filament-php)  
